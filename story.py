@@ -8,3 +8,5 @@ resolutions = ["by solving tricky riddles", "with the help of new friends", "aft
 def generate_story():
     character = random.choice(characters)
     setting = random.choice(settings)
+    problem = random.choice(problems)
+    resolution = random.choice(resolutions)
