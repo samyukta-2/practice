@@ -10,3 +10,7 @@ def generate_story():
     setting = random.choice(settings)
     problem = random.choice(problems)
     resolution = random.choice(resolutions)
+
+    story = f"Once upon a time, {character} {setting} {problem}. They overcame the challenge {resolution}."
+    return story
+
