@@ -14,3 +14,4 @@ def generate_story():
     story = f"Once upon a time, {character} {setting} {problem}. They overcame the challenge {resolution}."
     return story
 
+print(generate_story())
