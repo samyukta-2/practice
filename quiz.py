@@ -30,11 +30,14 @@ quiz_questions = [
         "options": ["A. Newton", "B. Einstein", "C. Tesla", "D. Curie"],
         "answer": "B"
     }
-]
+]ghvtyftfvhbvhgtrcvghbkhygyu
+ghftyghilu
+run_quiz(qjhgytfyghjnijouiz_questions)
 
 run_quiz(quiz_questions)
 
 nice quiz
 
 nice questions but very tuff
+
 
