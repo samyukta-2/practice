@@ -30,6 +30,6 @@ quiz_questions = [
         "options": ["A. Newton", "B. Einstein", "C. Tesla", "D. Curie"],
         "answer": "B"
     }
-]
-
-run_quiz(quiz_questions)
+]ghvtyftfvhbvhgtrcvghbkhygyu
+ghftyghilu
+run_quiz(qjhgytfyghjnijouiz_questions)
